@@ -1,0 +1,3 @@
+**/.terraform/*
+*.sh
+*.tfstate
